@@ -1,0 +1,6 @@
+{
+  "name": "County Campaign Manager - Uasin Gishu",
+  "description": "Mobile-friendly campaign operations prototype for Uasin Gishu County gubernatorial campaign.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
